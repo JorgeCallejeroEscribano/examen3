@@ -1,7 +1,7 @@
 # Examen Github
 
 # Índice
--[Modificaciones](Modificaciones)
+-[Modificaciones](#Modificaciones)
 
 ### Modificaciones
 
